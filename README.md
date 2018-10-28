@@ -1,3 +1,6 @@
-# Dinuka1995.github.io
+# JohnDoe
+A Responsive Free One Page Portfolio Website template
 
-this is my personal website
+
+
+
